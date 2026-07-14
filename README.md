@@ -21,9 +21,9 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2605.23878"><img src="https://img.shields.io/badge/Paper-arXiv%3A2605.23878-b31b1b"></a>
-  <img src="https://img.shields.io/badge/Code-Released-2f6f73">
-  <img src="https://img.shields.io/badge/Task-Video%20Generation-2f6f73">
-  <img src="https://img.shields.io/badge/Physics-Self--Supervised-17494d">
+  <a href="https://lamo-ai.github.io/"><img src="https://img.shields.io/badge/Project-Page-3178c6"></a>
+  <img src="https://img.shields.io/badge/Task-Video%20Generation-7656a8">
+  <img src="https://img.shields.io/badge/Physics-Self--Supervised-2a8c82">
 </p>
 
 <p align="center">
