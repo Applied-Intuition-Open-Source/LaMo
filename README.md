@@ -1,4 +1,4 @@
-# LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation
+# LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation (NeurIPS 2026)
 
 <p align="center">
   <strong>LaMo</strong> improves physical realism in video generation by learning motion priors from unlabeled videos.
@@ -20,6 +20,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/NeurIPS-2026-6845a4" alt="NeurIPS 2026">
   <a href="https://arxiv.org/abs/2605.23878"><img src="https://img.shields.io/badge/Paper-arXiv%3A2605.23878-b31b1b"></a>
   <img src="https://img.shields.io/badge/Code-Released-2f6f73">
   <img src="https://img.shields.io/badge/Task-Video%20Generation-2f6f73">
@@ -37,7 +38,7 @@
 
 ## Highlights & Introduction
 
-This repo contains the implementation of **LaMo**, including training, inference, evaluation, and interpretability scripts.
+This repo contains the implementation of **LaMo (NeurIPS 2026)**, including training, inference, evaluation, and interpretability scripts.
 
 LaMo is designed for improving motion and physical consistency in text-to-video diffusion models:
 
